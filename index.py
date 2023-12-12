@@ -1,3 +1,1 @@
-print("Hello Git")
-print("premier TP DevOps")
-print ("bonjour")
+print("Hello World!")
